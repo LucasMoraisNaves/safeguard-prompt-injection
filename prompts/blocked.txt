@@ -1,0 +1,14 @@
+🛡️ **Alerta de Segurança: Solicitação Bloqueada**
+
+Sua mensagem foi bloqueada por nossas guardrails de segurança baseadas em LLM.
+
+**Motivo:** {REASON}
+
+{ANALYSIS}
+
+**Seu Papel Atual:** {USER_ROLE}
+**Permissões Disponíveis:** {PERMISSIONS}
+
+💡 **Dica:** Você só pode acessar ferramentas para as quais possui permissão explícita. Tentar contornar essas restrições por meio de manipulação de prompts será bloqueado pelo nosso modelo de proteção.
+
+Se você acredita que isso é um erro, entre em contato com um administrador.

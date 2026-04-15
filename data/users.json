@@ -1,0 +1,17 @@
+{
+  "lucasNaves": {
+    "username": "lucasNaves",
+    "role": "admin",
+    "permissions": [
+      "read_package",
+      "execute_commands"
+    ],
+    "displayName": "Lucas Naves"
+  },
+  "userTeste": {
+    "username": "userTeste",
+    "role": "member",
+    "permissions": [],
+    "displayName": "User Teste"
+  }
+}
