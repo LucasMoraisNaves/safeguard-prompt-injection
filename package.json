@@ -20,7 +20,7 @@
     "guardrails",
     "openrouter"
   ],
-  "author": "erickwendel",
+  "author": "lucasNaves",
   "license": "MIT",
   "dependencies": {
     "@langchain/core": "^1.1.19",
